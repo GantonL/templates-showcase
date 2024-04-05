@@ -1,2 +1,2 @@
 # templates-showcase
-Showcasing of free applications templates for developers 
+Showcasing of free application templates for developers 
